@@ -36,4 +36,5 @@ enable developer mode
 You can now right click any user or channel to obtain the id.
 
 
-The channel id is to be pasted under 
+The channel id is to be pasted under channel_id(line 16)
+the authorization id is to be pasted under token(line 15)
