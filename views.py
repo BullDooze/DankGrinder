@@ -7,5 +7,5 @@ from selenium.webdriver.common.keys import Keys
 import time
 while True:
     browser = webdriver.Chrome(ChromeDriverManager().install())
-    browser.get('') #paste the video link here
+    browser.get('') #paste the video link here (btween the '   ')
     os.system("kill chromium")
