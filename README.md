@@ -5,6 +5,8 @@ This program is used to increase number of views on a youtube video
 App requirements-
 -Python-added to PATH(Environmental Variables)
 
+-node.js-added to PATH(environmental Variables)
+
 after doing all this, open the folder in command prompt and run code
 
 pip install -r requirements.txt
