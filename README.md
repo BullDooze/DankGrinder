@@ -1,6 +1,7 @@
 
 
 This program is used to increase number of views on a youtube video
+it can increase views by 3 per second and more than 50k in 6 hours
 
 App requirements-
 -Python-added to PATH(Environmental Variables)
@@ -18,3 +19,4 @@ then simply run the run.bat file and you are ready
 
 if there is any error or issue dm me on discord
 fog#6611
+
