@@ -18,5 +18,4 @@ then simply run the run.bat file and you are ready
 
 
 if there is any error or issue dm me on discord
-fog#6611
-
+fog#0092
